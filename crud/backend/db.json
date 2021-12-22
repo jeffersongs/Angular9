@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jaleco",
+      "description": "Jaleco de alta qualidade",
+      "price": 999.99,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Avental Bonito",
+      "description": "Avental de alta qualidade",
+      "price": "888.90",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Touca",
+      "description": "Touca de alta qualidade",
+      "price": 777.77,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Fronha",
+      "description": "Fronha de alta qualidade",
+      "price": 666.66,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Embalagem",
+      "description": "Embalagem de alta qualidade",
+      "price": 555.55,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Porta talher",
+      "description": "Porta Talher de alta qualidade",
+      "price": 444.44,
+      "available": true
+    },
+    {
+      "name": "Celular Usado",
+      "price": "1235.50",
+      "available": true,
+      "id": 7
+    },
+    {
+      "name": "Máquina de Lavar",
+      "price": "550.00",
+      "available": true,
+      "id": 8
+    }
+  ]
+}
